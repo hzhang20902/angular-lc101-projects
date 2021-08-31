@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://www.sciencenews.org/wp-content/uploads/2020/04/041520_mt_supernova_feat.jpg");
+}
+
+header {
+    background-color: rgb(72, 201, 201);
+    border: royalblue;
+    border-width: 5px;
+    border-radius: 15px;
+    border-style: double;
+}

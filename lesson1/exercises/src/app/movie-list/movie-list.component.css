@@ -5,3 +5,7 @@ h3 {
     font-style:italic;
     text-align: center;
 }
+
+li {
+    color: rgb(10, 243, 243);
+}
